@@ -2,6 +2,8 @@
 title: Ashutosh Kaithwas
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
 # Hello
 
 **Developer · Builder · Curious Mind**

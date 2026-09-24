@@ -1,10 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-/* ===== Base ===== */
-
 body {
   background: #0b0f14;
   color: #c9d1d9;
@@ -15,13 +11,10 @@ body {
   padding: 40px 24px;
 }
 
-/* ===== Headings ===== */
-
 h1 {
   color: #ffffff;
   font-size: 3rem;
   margin-bottom: 8px;
-  letter-spacing: -1px;
 }
 
 h2 {
@@ -35,9 +28,9 @@ h2 {
 h3 {
   color: #e6edf3;
   margin-top: 30px;
+  border-left: 3px solid #58a6ff;
+  padding-left: 12px;
 }
-
-/* ===== Links ===== */
 
 a {
   color: #58a6ff;
@@ -48,8 +41,6 @@ a:hover {
   color: #79c0ff;
   text-decoration: underline;
 }
-
-/* ===== Navigation ===== */
 
 div[align="center"] {
   margin: 30px 0 45px;
@@ -64,8 +55,6 @@ div[align="center"] a {
   font-weight: 600;
 }
 
-/* ===== Text ===== */
-
 strong {
   color: #ffffff;
 }
@@ -76,20 +65,9 @@ hr {
   margin: 45px 0;
 }
 
-/* ===== Projects ===== */
-
-h3 {
-  border-left: 3px solid #58a6ff;
-  padding-left: 12px;
-}
-
-/* ===== Lists ===== */
-
 li {
   margin: 6px 0;
 }
-
-/* ===== Contact ===== */
 
 footer {
   margin-top: 60px;
@@ -98,8 +76,6 @@ footer {
   text-align: center;
   color: #6e7681;
 }
-
-/* ===== Mobile ===== */
 
 @media (max-width: 600px) {
   body {
