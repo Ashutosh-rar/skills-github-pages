@@ -1,68 +1,94 @@
 ---
-title: Welcome-Voyager
+title: Ashutosh Kaithwas
 ---
 
-# Hello, I’m Ashutosh
+# Ashutosh Kaithwas
 
-Welcome to my corner of the web. I design, build, and share ideas that make technology feel useful, human, and inspiring.
+**Developer · Builder · Curious Mind**
+
+I’m a developer interested in software engineering, AI, and building things that solve real problems.
 
 <div align="center">
-  <a href="#about">About</a> ·
-  <a href="#What-I-Do">Work</a> ·
-  <a href="#Let's-Connect">Contact</a> .
+
+<a href="#about">About</a> ·
+<a href="#projects">Projects</a> ·
+<a href="#skills">Skills</a> ·
+<a href="#contact">Contact</a>
+
 </div>
 
 ---
 
 ## About
 
-I’m a creative developer and problem-solver with a passion for turning ideas into meaningful digital experiences. I enjoy building thoughtful products, crafting clear user journeys, and bringing strategy and design together in ways that feel both polished and practical.
+I'm a BBA(CA) graduate who enjoys turning ideas into working software.
 
-Whether I’m working on a new product, refining an existing brand, or learning something new, I care most about creating work that is useful, memorable, and built with intention.
+I like exploring different areas of technology — from web development and backend systems to AI and computer vision. Most of what I learn comes from building projects, breaking things, fixing them, and trying again.
 
----
-
-## What I Do
-
-- Product design and UX thinking
-- Web development and front-end implementation
-- Brand storytelling and digital strategy
-- Creative problem solving for modern businesses
+Currently, I'm focused on growing as a **Software Engineer** and building stronger foundations in programming, problem solving, and system development.
 
 ---
 
-## Featured Work
+## Projects
 
-### Project One
-A digital experience designed to simplify complex information and make key decisions easier for users.
+### CamSense
 
-### Project Two
-A brand refresh and web experience that helped a business communicate more clearly and confidently online.
+Real-time object detection system using **Python, OpenCV, MobileNet SSD, Node.js, Express, and PostgreSQL**.
 
-### Project Three
-A custom product concept focused on usability, performance, and a seamless user journey.
+Built to detect and log objects from a camera feed in real time.
 
----
+### SignSpeak AI
 
-## Why I Do This
+A video communication concept that combines **sign-language detection, speech-to-text, live captions, and text-to-speech** to make communication more accessible.
 
-I believe good work connects people to ideas in a way that feels natural and memorable. My goal is to create experiences that are not only visually strong, but also thoughtful, effective, and easy to connect with.
+### RetiScan
 
----
-
-## Let’s Connect
-
-I’m always open to collaborations, conversations, and new opportunities.
-
-- Email: hellothisismeashutosh@gmail.com
-- LinkedIn: linkedin.com/in/ashutoshkaithwas
-- GitHub: github.com/Ashutosh-rar
-
-If you’d like to build something meaningful together, I’d love to hear from you.
+An AI-based retinal image analysis system designed to enhance fundus images and assist with glaucoma detection and report generation.
 
 ---
 
-<footer>
-  <p>© 2026 Ashutosh</p>
-</footer>
+## Skills
 
+**Languages**
+
+C · C++ · Python · JavaScript · SQL
+
+**Development**
+
+HTML · CSS · Node.js · Express.js · Angular · REST APIs
+
+**AI / Computer Vision**
+
+OpenCV · MediaPipe · Machine Learning · Computer Vision
+
+**Tools**
+
+Git · GitHub · Linux · VS Code · PostgreSQL
+
+---
+
+## What I'm Working Toward
+
+Building better software.
+
+Learning consistently.
+
+Turning ideas into real projects.
+
+And eventually working on systems that can reach people beyond just a portfolio.
+
+---
+
+## Contact
+
+I'm open to opportunities, collaborations, and interesting projects.
+
+**Email:** hellothisismeashutosh@gmail.com
+
+**GitHub:** [github.com/Ashutosh-rar](https://github.com/Ashutosh-rar)
+
+**LinkedIn:** [linkedin.com/in/ashutoshkaithwas](https://linkedin.com/in/ashutoshkaithwas)
+
+---
+
+© 2026 Ashutosh Kaithwas
