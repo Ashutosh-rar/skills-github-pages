@@ -1,5 +1,5 @@
 ---
-title: Welcome-Voyager 
+title: Welcome-Voyager
 ---
 
 # Hello, I’m Ashutosh
@@ -8,8 +8,8 @@ Welcome to my corner of the web. I design, build, and share ideas that make tech
 
 <div align="center">
   <a href="#about">About</a> ·
-  <a href="#work">Work</a> ·
-  <a href="#contact">Contact</a>
+  <a href="#What I Do">Work</a> ·
+  <a href="#Let's Connect">Contact</a>
 </div>
 
 ---
