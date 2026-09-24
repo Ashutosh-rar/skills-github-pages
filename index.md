@@ -6,7 +6,7 @@ title: Ashutosh Kaithwas
 
 **Developer · Builder · Curious Mind**
 
-I’m a developer interested in software engineering, AI, and building things that solve real problems.
+I'm a developer interested in software engineering, AI, and building things that solve real problems.
 
 <div align="center">
 
@@ -39,7 +39,7 @@ Built to detect and log objects from a camera feed in real time.
 
 ### SignSpeak AI
 
-A video communication concept that combines **sign-language detection, speech-to-text, live captions, and text-to-speech** to make communication more accessible.
+A video communication concept combining **sign-language detection, speech-to-text, live captions, and text-to-speech** to make communication more accessible.
 
 ### RetiScan
 
@@ -85,10 +85,12 @@ I'm open to opportunities, collaborations, and interesting projects.
 
 **Email:** hellothisismeashutosh@gmail.com
 
-**GitHub:** [github.com/Ashutosh-rar](https://github.com/Ashutosh-rar)
+**GitHub:** [Ashutosh-rar](https://github.com/Ashutosh-rar)
 
-**LinkedIn:** [linkedin.com/in/ashutoshkaithwas](https://linkedin.com/in/ashutoshkaithwas)
+**LinkedIn:** [Ashutosh Kaithwas](https://linkedin.com/in/ashutoshkaithwas)
 
 ---
 
-© 2026 Ashutosh Kaithwas
+<footer>
+  © 2026 Ashutosh Kaithwas
+</footer>
