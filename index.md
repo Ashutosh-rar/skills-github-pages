@@ -1,7 +1,3 @@
----
-title: Ashutosh Kaithwas
----
-
 # Hello!
 
 **Developer · Builder · Curious Mind**
